@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="648" viewBox="0 0 900 648" role="img" aria-labelledby="t d" xml:space="preserve">
+  <title id="t">Andres Espindola — GRC Analyst experience</title>
+  <desc id="d">18 years of Medicaid and 13 years of managed care experience, including four years of hands-on security; HITRUST r2 assessments, identity governance, third-party risk and policy management at Community Health Choice.</desc>
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .name { font-size: 26px; font-weight: 700; fill: #f0f6fc; }
+    .sub { font-size: 14px; fill: #8b949e; }
+    .sec { font-size: 12px; font-weight: 700; fill: #8b949e; letter-spacing: 1.5px; }
+    .big { font-size: 22px; font-weight: 700; fill: #58a6ff; }
+    .lbl { font-size: 11.5px; fill: #c9d1d9; }
+    .role { font-size: 15px; font-weight: 600; fill: #f0f6fc; }
+    .org { font-size: 15px; fill: #8b949e; }
+    .date { font-size: 12px; fill: #8b949e; }
+    .det { font-size: 12.5px; fill: #c9d1d9; }
+    .met { font-size: 17px; font-weight: 700; fill: #3fb950; }
+    .mlbl { font-size: 11px; fill: #c9d1d9; }
+    .badge { font-size: 12px; font-weight: 600; fill: #58a6ff; }
+    .fw { font-size: 12px; fill: #c9d1d9; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="647" rx="16" fill="#0d1117" stroke="#30363d"/>
+
+  <text class="name" x="40" y="54">Andres Espindola</text>
+  <text class="sub" x="40" y="80">GRC Analyst · Information Security · Kingwood, TX</text>
+
+  <rect x="540" y="36" width="128" height="28" rx="14" fill="none" stroke="#8b949e" stroke-dasharray="4 3"/>
+  <text x="604" y="54" text-anchor="middle" style="font-size: 12px; font-weight: 600; fill: #8b949e;">CISA · in progress</text>
+  <rect x="676" y="36" width="88" height="28" rx="14" fill="#0d2240" stroke="#1f6feb"/>
+  <text class="badge" x="720" y="54" text-anchor="middle">Security+</text>
+  <rect x="772" y="36" width="88" height="28" rx="14" fill="#0d2240" stroke="#1f6feb"/>
+  <text class="badge" x="816" y="54" text-anchor="middle">ISC2 CC</text>
+
+  <g>
+    <rect x="40" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="103" y="138" text-anchor="middle">18 yrs</text>
+    <text class="lbl" x="103" y="160" text-anchor="middle">Medicaid</text>
+    <rect x="178" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="241" y="138" text-anchor="middle">13 yrs</text>
+    <text class="lbl" x="241" y="160" text-anchor="middle">managed care</text>
+    <rect x="316" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="379" y="138" text-anchor="middle">8 yrs</text>
+    <text class="lbl" x="379" y="160" text-anchor="middle">compliance</text>
+    <rect x="454" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="517" y="138" text-anchor="middle">4 yrs</text>
+    <text class="lbl" x="517" y="160" text-anchor="middle">hands-on security</text>
+    <rect x="592" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="655" y="138" text-anchor="middle">2 + 2</text>
+    <text class="lbl" x="655" y="160" text-anchor="middle">HITRUST r2 passed</text>
+    <rect x="730" y="106" width="126" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="big" x="793" y="138" text-anchor="middle">9 of 19</text>
+    <text class="lbl" x="793" y="160" text-anchor="middle">HITRUST domains</text>
+  </g>
+
+  <text class="sec" x="40" y="218">EXPERIENCE · COMMUNITY HEALTH CHOICE (HARRIS HEALTH)</text>
+  <line x1="60" y1="246" x2="60" y2="452" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="60" cy="248" r="7" fill="#58a6ff"/>
+  <text x="84" y="253"><tspan class="role">Information Security Analyst</tspan></text>
+  <text class="date" x="860" y="253" text-anchor="end">2022 – 2026</text>
+  <text class="det" x="84" y="275">HITRUST r2 control mapping &amp; evidence · CyberArk IGA · Varonis data classification</text>
+  <text class="det" x="84" y="294">Third-party risk with Bitsight · alert &amp; phishing triage · Copilot AI data governance</text>
+
+  <circle cx="60" cy="330" r="6" fill="#1f6feb"/>
+  <text x="84" y="335"><tspan class="role">Regulatory Affairs Analyst</tspan></text>
+  <text class="date" x="860" y="335" text-anchor="end">2018 – 2022</text>
+  <text class="det" x="84" y="357">HHSC, TDI &amp; CMS regulatory inquiries · root-cause analysis · 400+ policy review workflow</text>
+
+  <circle cx="60" cy="392" r="6" fill="#1f6feb"/>
+  <text x="84" y="397"><tspan class="role">Operations Trainer</tspan></text>
+  <text class="date" x="860" y="397" text-anchor="end">2016 – 2018</text>
+  <text class="det" x="84" y="419">HIPAA, privacy &amp; data-handling training for 300+ employees · ACA operations SME</text>
+
+  <circle cx="60" cy="452" r="5" fill="#30363d" stroke="#8b949e"/>
+  <text x="84" y="457"><tspan class="role">Lead Member Programs Coordinator · Contact Center Representative</tspan></text>
+  <text class="date" x="860" y="457" text-anchor="end">2013 – 2016</text>
+  <text class="det" x="84" y="479">Before Community Health Choice: Texas Works Advisor, HHSC (2008 – 2013)</text>
+
+  <text class="sec" x="40" y="522">IMPACT</text>
+  <g>
+    <rect x="40" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="103" y="557" text-anchor="middle">50+</text>
+    <text class="mlbl" x="103" y="577" text-anchor="middle">policies maintained</text>
+    <rect x="178" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="241" y="557" text-anchor="middle">375K+</text>
+    <text class="mlbl" x="241" y="577" text-anchor="middle">files classified</text>
+    <rect x="316" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="379" y="557" text-anchor="middle">12</text>
+    <text class="mlbl" x="379" y="577" text-anchor="middle">apps onboarded to IGA</text>
+    <rect x="454" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="517" y="557" text-anchor="middle">98%</text>
+    <text class="mlbl" x="517" y="577" text-anchor="middle">training completion</text>
+    <rect x="592" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="655" y="557" text-anchor="middle">&lt;1%</text>
+    <text class="mlbl" x="655" y="577" text-anchor="middle">phishing fail rate</text>
+    <rect x="730" y="534" width="126" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text class="met" x="793" y="557" text-anchor="middle">~50</text>
+    <text class="mlbl" x="793" y="577" text-anchor="middle">perms revoked / cycle</text>
+  </g>
+
+  <text class="fw" x="40" y="622">HITRUST CSF · HIPAA · NIST CSF · NIST SP 800-53   |   CyberArk IGA · Varonis · Entra ID · Cortex XDR · Bitsight · ServiceNow</text>
+</svg>
