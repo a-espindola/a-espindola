@@ -1,3 +1,5 @@
+<img src="grc-experience.svg" alt="Andres Espindola – GRC Analyst experience" width="100%">
+
 ## Hi, I'm Andres Espindola 👋
 
 Information Security Analyst, open to **GRC Analyst**, **Cybersecurity Compliance Analyst**, **Information Security Analyst**, **IAM Analyst**, or other cybersecurity role.
